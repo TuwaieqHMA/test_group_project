@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_week8_day1/pages/login_page.dart';
 import 'package:page_transition/page_transition.dart';
-class SignUp extends StatelessWidget {
-  const SignUp({super.key});
+class SignUpPage extends StatelessWidget {
+  const SignUpPage({super.key});
 
   @override
   Widget build(BuildContext context) {
